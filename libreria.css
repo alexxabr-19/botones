@@ -1,0 +1,14 @@
+/* 1. Fundamentos y colores - básico */
+
+.btn-primary{
+    background-color: #1565C0;
+    color: #FFFFFF;
+}
+.btn-secondary{
+    background-color: #D1D5DB;
+    color: #111827;
+}
+.btn-success{
+    background-color: #16703C;
+    color: #FFFFFF;
+}
